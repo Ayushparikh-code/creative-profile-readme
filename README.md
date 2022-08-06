@@ -240,6 +240,11 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img src="EXAMPLES/ms314006.png">
   </details>
+- [cshukei](https://github.com/cshukei)
+  <details>
+    <summary>Preview</summary>
+    <img src="EXAMPLES/cshukei.png">
+  </details>
 
 ## D
 

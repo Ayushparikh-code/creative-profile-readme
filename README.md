@@ -814,7 +814,7 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
 - [Tenji Sim](https://github.com/Ten7i)
    <details>
     <summary>Preview</summary>
-    <img src="EXAMPLES/TenjiSim.png">
+    <img src="EXAMPLES/TenjiSim.PNG">
   </details>
 
 ## U
